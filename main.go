@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	accounts "github.com/bankAccount/banking"
+	accounts "github.com/bento1/bankAccount/banking"
 )
 
 func main() {
